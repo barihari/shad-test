@@ -26,13 +26,6 @@ export default function RootLayout({
     <html lang="en">
       <body
       >
-        <nav>
-          <h1>My Website</h1>
-          <ul>
-            <li>Home</li>
-            <li>About</li>
-          </ul>
-        </nav>
         {children}
       </body>
     </html>
